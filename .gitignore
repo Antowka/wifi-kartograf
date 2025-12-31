@@ -1,0 +1,104 @@
+```
+# Android
+*.apk
+*.aar
+*.dex
+*.so
+*.jar
+
+# Android build outputs
+build/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio
+*.iml
+*.iws
+*.ipr
+.idea/
+*.hprof
+*.pyc
+.DS_Store
+*.swp
+*~
+.project
+.classpath
+.settings/
+
+# Android generated files
+gen/
+bin/
+obj/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Bundles
+*.aab
+
+# Coverage reports
+coverage/
+*.ec
+
+# Firebase
+.google-services.json
+
+# APK Analyzer
+*.ap_
+*.apks
+
+# Android Lint
+lint-results-*.xml
+
+# Proguard
+proguard/
+
+# Debug symbols
+*/.debug/
+
+# Kotlin
+*.kotlin_metadata
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Python (if any Python scripts in project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/modules/
+*.swo
+*.swp
+*~
+.DS_Store
+.hg
+.CVS
+```
